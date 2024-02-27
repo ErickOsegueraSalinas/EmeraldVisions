@@ -25,4 +25,4 @@
 <br> A world of hope, not of fate.
 <br> Together, we'll make the breakthroughs,
 <br> For a planet that thrives, and future that renews.
-<br><br><br> 2024.
+<br><br><br> (2024).
