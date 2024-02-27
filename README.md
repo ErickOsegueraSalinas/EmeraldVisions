@@ -1,6 +1,6 @@
 # EmeraldVisions: A youth's call for climate change
 In a world where climate change looms,
-Youth leaders rise to break old dooms.
+\n Youth leaders rise to break old dooms.
 Innovative minds, hearts on fire,
 Dreams of green, of lands that inspire.
 
