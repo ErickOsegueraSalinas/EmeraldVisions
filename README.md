@@ -1,25 +1,26 @@
 # EmeraldVisions: A youth's call for climate change
 In a world where climate change looms,
-\n Youth leaders rise to break old dooms.
-Innovative minds, hearts on fire,
-Dreams of green, of lands that inspire.
+<br> Youth leaders rise to break old dooms.
+<br> Innovative minds, hearts on fire,
+<br> Dreams of green, of lands that inspire.
 
-Community-centric, we take the lead,
-Governance for all, a new creed.
-Equity in energy, a fair transition,
-For a future that's bright, a noble mission.
+<br> Community-centric, we take the lead,
+<br> Governance for all, a new creed.
+<br> Equity in energy, a fair transition,
+<br> For a future that's bright, a noble mission.
 
-Eco-literacy, knowledge blooms,
-In every child, the earth resumes.
-Democracy's future, in young hands,
-Voices raised, in all lands.
+<br> Eco-literacy, knowledge blooms,
+<br> In every child, the earth resumes.
+<br> Democracy's future, in young hands,
+<br> Voices raised, in all lands.
 
-Climate finance, a key to unlock,
-Sustainable futures, not just talk.
-With vision clear, we pave the way,
-For a greener world, where children play.
-
-So let us dream, let us create,
-A world of hope, not of fate.
-Together, we'll make the breakthroughs,
-For a planet that thrives, and future that renews.
+<br> Climate finance, a key to unlock,
+<br> Sustainable futures, not just talk.
+<br> With vision clear, we pave the way,
+<br> For a greener world, where children play.
+ 
+<br> So let us dream, let us create,
+<br> A world of hope, not of fate.
+<br> Together, we'll make the breakthroughs,
+<br> For a planet that thrives, and future that renews.
+<br><br><br> 2024.
