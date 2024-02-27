@@ -1,5 +1,7 @@
-# EmeraldVisions: A youth's call for climate change
-In a world where climate change looms,
+# Emerald Visions: A youth's call for climate change
+## by: Erick Oseguera Salinas
+
+<br> In a world where climate change looms,
 <br> Youth leaders rise to break old dooms.
 <br> Innovative minds, hearts on fire,
 <br> Dreams of green, of lands that inspire.
